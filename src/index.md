@@ -5,7 +5,7 @@ tags: page
 navTitle: Home
 ---
 
-## Articles
+## Articles!
 
 {% for page in collections.page %}
 
